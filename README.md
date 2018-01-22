@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Funderscore.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Funderscore?ref=badge_shield)
+
                        __
                       /\ \                                                         __
      __  __    ___    \_\ \     __   _ __   ____    ___    ___   _ __    __       /\_\    ____
@@ -26,3 +28,7 @@ https://github.com/documentcloud
 
 Many thanks to our contributors:
 https://github.com/jashkenas/underscore/contributors
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Funderscore.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Funderscore?ref=badge_large)
